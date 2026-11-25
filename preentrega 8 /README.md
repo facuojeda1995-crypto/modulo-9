@@ -25,12 +25,14 @@ Python: 3.10 o superior (compatible con Google Colab o ejecución local).
 Dependencias:
   ```bash
   pip install sqlalchemy pandas
-
+```
 --------------------------------------------------------------------------------------------------------------------------------
 pasos para ejecutar y verificar reproducibilidad: 
-1- Clona el repositorio y accede a la carpeta del proyecto:
-git clone [https://github.com/facuojeda1995-crypto/modulo-9.git](https://github.com/facuojeda1995-crypto/modulo-9.git)
-cd "modulo-9/preentrega 8 "
+1. Clona el repositorio y accede a la carpeta del proyecto:
+   ```bash
+   git clone https://github.com/facuojeda1995-crypto/modulo-9.git
+   cd "modulo-9/preentrega 8 "
+   ```
 2-Instala las dependencias necesarias:
 pip install sqlalchemy pandas
 3-Ejecuta el script ETL por primera vez:
