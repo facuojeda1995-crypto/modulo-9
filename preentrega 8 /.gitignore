@@ -1,0 +1,11 @@
+# Caché y entornos virtuales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Archivos temporales de Colab / Jupyter
+.ipynb_checkpoints/
+*.log
